@@ -9,5 +9,3 @@ function forLoop(array) {
 
 return array;
 }
-
-forloop(1)
